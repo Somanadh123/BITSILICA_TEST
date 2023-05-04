@@ -13,5 +13,5 @@ void main()
       printf("\n");
       odd_or_even_mahavishnu(a);
       printf("\n");
-      devision_mahima(b,a);
+      division_mahima(b,a);
 }
