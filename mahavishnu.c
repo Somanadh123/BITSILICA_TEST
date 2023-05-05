@@ -1,3 +1,4 @@
+#include<stdio.h>
 void odd_or_even_mahavishnu(int n)
 {
 	if(n%2==0)
