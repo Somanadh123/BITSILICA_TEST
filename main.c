@@ -2,7 +2,7 @@
 #include"mycalc.h"
 void main()
 {
-	int a=5,b=10;
+	int a=2,b=9;
      addition_vaibhav(a,b);
      printf("\n");
       max_number_navya(a, b);
